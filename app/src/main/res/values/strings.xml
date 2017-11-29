@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoadingStatus</string>
+
+    <string name="load_show">显示=加载中</string>
+    <string name="empty_show">显示=空</string>
+    <string name="no_net_show">显示=无网络</string>
+    <string name="success_show">显示=成功</string>
+    <string name="error_show">显示=失败</string>
+    <string name="loading_status_layout_name">LoadingStatusLayout</string>
+</resources>
