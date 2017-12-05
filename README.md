@@ -1,6 +1,8 @@
 ># LoadingStatus
 >LoadingStatus
 
+![效果图展示](https://github.com/pdliugithub/LoadingStatus/blob/master/gif/loading_screen01.gif)
+
 ***
 
     Step 1. Add it in your root build.gradle at the end of repositories:
